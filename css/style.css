@@ -5,8 +5,8 @@
     --smoke:rgb(206, 214, 224);
 }
 .container{
-    width: 40%;
-    height: 500px;
+    width: 30%;
+    height: 600px;px;
     background-color: white;
     border-radius: 12px;
     margin: 20px auto;
@@ -17,7 +17,7 @@
     object-fit: cover;
     border-radius: 18px;
     border-bottom-left-radius: 0px;
-    border: bottom right radius 0px; ;
+    border-bottom-right-radius: 0px; 
 
 }
  .wrap_img{
@@ -53,9 +53,8 @@ border: 2px solid black;
 border-radius: 8px;
 }
 
-body{
-    background-color: "##2980b9";
-}
+
+
 
 
 
