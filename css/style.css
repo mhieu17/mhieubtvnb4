@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+
+:root{
+    --dark_blue: rgb(83, 82, 237);
+    --smoke:rgb(206, 214, 224);
+}
+.container{
+    width: 40%;
+    height: 500px;
+    background-color: white;
+    border-radius: 12px;
+    margin: 20px auto;
+    
+}
+.img{
+    width: 100%;
+    object-fit: cover;
+    border-radius: 18px;
+    border-bottom-left-radius: 0px;
+    border: bottom right radius 0px; ;
+
+}
+ .wrap_img{
+    width: 100%;
+    object-fit: cover;
+} 
+
+.main{
+   text-align: left;
+   line-height: 30px;
+   padding: 16px 16px 20px 12px;
+}
+
+.btn_blue{
+    width: 80px;
+    height: 30px;
+    margin: 0px 20px ;
+    text-transform: capitalize;
+    background-color: rgb(5, 197, 46);
+    color: azure;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+
+.btn_red{
+    width: 80px;
+    height: 30px;
+    margin: 0px 20px ;
+    text-transform: capitalize;
+background-color: rgb(216, 23, 23);
+color: azure;
+border: 2px solid black;
+border-radius: 8px;
+}
+
+body{
+    background-color: "##2980b9";
+}
+
+
+
+    
